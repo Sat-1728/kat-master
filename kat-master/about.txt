@@ -1,0 +1,36 @@
+============================
+
+Chương trình này bao gồm một loạt công cụ được cài sẵn cho
+công việc pentest trở nên dễ dàng và thuận tiện hơn. Tất cả
+các công cụ trong Kat-Master đều viết bằng python 3 - 2. Do đó 
+trước khi chạy chương trình này. Vui lòng thực hiện lệnh  :
+" pip3 install -r requirements.txt ". && " pip3 install -r requirements2.txt " 
+Để đảm bảo rằng tấtcả công cụ đều chạy tốt .
+
+============================
+
+[ Google Translate ] 
+
+This program includes a set of tools pre-installed for the 
+pentest task becomes easier and more convenient. All tools 
+in Kat-Master are written in python3. So before running this 
+program. Please execute the command: "pip3 install -r requirements.txt" and  
+" pip3 install -r requirements2.txt ".Make sure all the tools are running well.
+
+============================
+
+Tất cả các hướng dẫn đều có sắn trong khi chạy. 
+
+============================
+
+Author : Truong Van HUong - Trương Văn Hướng 
+Blog   : https://itsat1728.blogspot.com
+Copyright : Truong Van Huong && [ open source ] 
+
+============================
+
+Only for Linux & Termux . Some tools and commands may not be 
+available on Windows, ... [ Simple example: os.system ('clear') ]
+
+============================
+

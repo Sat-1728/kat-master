@@ -1,0 +1,8 @@
+[ No remove this file ]
+== > Type 'exit' to back menu or exit program
+== > 
+== > Do not type the tool name when executing the pentest command.
+     For example, instead of typing [ python3 hammer.py -s example.com ]
+     you just type [ -s example.com ]
+== >
+== > [ ! ] Attention to option number 9 [ ! ] 

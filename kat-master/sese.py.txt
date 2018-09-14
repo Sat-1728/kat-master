@@ -1,0 +1,9 @@
+import os
+import sys
+from pathlib import Path
+
+get_tools =os.path.abspath('tools-kat')
+sys.path.insert(0, get_tools)
+
+kat_remove =os.path.abspath('')
+
