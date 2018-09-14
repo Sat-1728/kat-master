@@ -39,7 +39,7 @@ class select2:
                       if 'python3' in se:
                           python = ('python3')
                       else :
-                          python = ('python')
+                          python = ('python2')
                       while True : 
                           try:
                               command = input ('\033[1;33;40m====== > '+python+' '+get_tools+'/'+se+' '+'\033[1;37;40m')
@@ -171,6 +171,7 @@ try:
         kat.banner()   
 except :
         os.system('clear') 
+        os.system('rm -rf __pycache__')
         print ('\n                                          +---------------+')
         print ('                                       [ ! ] Error -- Bye  [ ! ]')
         print ('                                          +---------------+\n')
